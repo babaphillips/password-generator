@@ -1,5 +1,7 @@
 # password-generator
 
-function random() {
-  return Math.floor(Math.random() * )
-}
+<h1>Password-Generator 
+
+<p>A Random password generator where user can select preferences</p>
+
+<>
