@@ -20,6 +20,10 @@
 <p>WHEN the password is generated</p>
 <p>THEN the password is either displayed in an alert or written to the page</p>
 
+<h1>Mock Up</h1>
+
+<img src="/assets/images\03-javascript-homework-demo (1).png">
+
 
 
 <h1>Published Site:</h1>
