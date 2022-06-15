@@ -2,7 +2,7 @@
 
 <p>A random password generator where user can select their preferences</p>
 
-<p>Acceptance Criteria</p>
+<h1>Acceptance Criteria</h1>
 
 <p>GIVEN I need a new, secure password</p>
 <p>WHEN I click the button to generate a password</p>
@@ -24,8 +24,8 @@
 
 <h1>Published Site:</h1>
 
-<p>a href="https://babaphillips.github.io/password-generator/"</p>
+<p>https://babaphillips.github.io/password-generator/</p>
 
 <h1>GitHub Link:</h1>
 
-<p>a href="https://github.com/babaphillips/password-generator"</p>
+<p>https://github.com/babaphillips/password-generator</p>
