@@ -26,10 +26,10 @@ function generatePassword() {
   console.log(length)
 
   //  b. Lowercase, uppercase, numbers, special characters
-  var uppercase = confirm("Would you like to use uppercase letters?");
-  var lowercase = confirm("Would you like to use lowercase letters?");
-  var numbers = confirm("Would you like to use numbers?");
-  var symbols = confirm("Would you like to use special characters?");
+  var uppercase = confirm("Would you like to use uppercase letters? Ok for yes, cancel for no");
+  var lowercase = confirm("Would you like to use lowercase letters?Ok for yes, cancel for no");
+  var numbers = confirm("Would you like to use numbers?Ok for yes, cancel for no");
+  var symbols = confirm("Would you like to use special characters?Ok for yes, cancel for no");
 
   // 2. Validate the input
   if (!uppercase && !lowercase && !numbers && !symbols) {
