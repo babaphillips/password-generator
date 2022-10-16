@@ -1,35 +1,65 @@
-# Password-Generator
+# Password Generator
 
-<p>A random password generator where user can select their preferences</p>
+![License](https://img.shields.io/badge/License-MIT-lightblue.svg)
 
-<h1>Acceptance Criteria</h1>
+## Build with:
 
-<p>GIVEN I need a new, secure password</p>
-<p>WHEN I click the button to generate a password</p>
-<p>THEN I am presented with a series of prompts for password criteria</p>
-<p>WHEN prompted for password criteria</p>
-<p>THEN I select which criteria to include in the password</p>
-<p>WHEN prompted for the length of the password</p>
-<p>THEN I choose a length of at least 8 characters and no more than 128 characters</p>
-<p>WHEN asked for character types to include in the password</p>
-<p>THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters</p>
-<p>WHEN I answer each prompt</p>
-<p>THEN my input should be validated and at least one character type should be selected</p>
-<p>WHEN all prompts are answered</p>
-<p>THEN a password is generated that matches the selected criteria</p>
-<p>WHEN the password is generated</p>
-<p>THEN the password is either displayed in an alert or written to the page</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h1>Mock Up</h1>
+## Description:
 
-<img src="/assets/images\03-javascript-homework-demo (1).png">
+An application that an individual can use to generate a random password based on criteria they’ve selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript. It have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
+## Contents
 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Visuals](#visuals)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-<h1>Published Site:</h1>
+## Installation
 
-<p>https://babaphillips.github.io/password-generator/</p>
+1. Clone the repo
+   ```sh
+   git clone git@github.com:babaphillips/password-generator.git
+   ```
+2. Run application thru Go Live Extension.
 
-<h1>GitHub Link:</h1>
+## Usage
 
-<p>https://github.com/babaphillips/password-generator</p>
+This application can be used by anybody who is looking to generate a password based on pre-determined criteria.
+
+## Visuals
+
+![MockUp](assets/images/mock.png)
+
+## License
+
+This application is licensed under the MIT license.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are welcome. If you have a suggestion that would make this better, please fork the repo and create a pull request.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
+3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
+4. Push to the Branch (`git push origin feature/New`)
+5. Open a Pull Request
+
+## Tests
+
+No tests
+
+## Questions?
+
+Check the GitHub repository here: [GitHub](https://github.com/babaphillips/password-generator)
+
+Check out my other projects at my Github here: [Github](https://github.com/babaphillips)
+
+How To Reach Me For Additional Questions: amandavphillips@icloud.com
